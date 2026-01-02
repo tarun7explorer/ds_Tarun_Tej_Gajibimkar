@@ -66,6 +66,9 @@ Give the path of datasets correctly or else an error will be thrown
 Execution:
 Simply open the prime.ipynb file in your Jupyter environment (like Google Colab, JupyterLab, or VS Code) and run the cells sequentially and the output will be displayed.
 
+Gave my best report but it was fake hiring.
+
+
 
 
 
